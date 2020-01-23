@@ -1,0 +1,40 @@
+type casting-
+s.o.p(int(variable name))
+*buffer reader
+All the increment operates work on character values 
+*greatest of 3 numbers without using selection statements
+*given number is prime or not using square root logic
+*using break
+throws is a keyword is telling the main method to handle the exceptions
+*check whether the given alphabet is a vowel or consonant
+Types of Inheritance
+java supports the following types of inheritance
+1.Single level inheritance.
+2.multi level inheritance
+3.hirearchal inheritance 
+4.hybrid inheritance
+All the inheritance will be achieved with the classes.
+***************************************************************
+*java doesnot support multiple inheritance with classes.      *
+*in order to achieve multpile inhertiance ,it can be achieved *
+*only with the help of interfaces                             *
+***************************************************************s
+ the class which shares the properties with other class is called Parent class or base class
+or super class 
+the class which aquires the properties from other class is called child class or derived class 
+or sub class
+The constructor which does not take any parameters or the constructor created by jvm 
+are called default constructor
+-Constructor should have the same name as class
+-Constructor will not have any return type
+-Constructors will return the value of a class (or) they have the same return type as the class
+-Constructor is a special kind of a method which is used to create the objects
+-Constructor is used to intialize the variables.
+New operater is ues to allocate memory for the object.
+A class can have any number of constructors
+A class having multiple constructors is called over loading of constructors 
+note-When a programmer id defining the constructor,the the jvm will not provide wth the default constructor
+This keyword:-
+'This' keyword is used to differeniated the local variables and class variables when they have the same name.
+'This' is a keyword which is used to assign class level variable.
+'This' keyword is used to call a constructor from an other constructor.
